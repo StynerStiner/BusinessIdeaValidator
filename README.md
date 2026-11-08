@@ -41,7 +41,7 @@ This repository contains a comprehensive business idea validation tool designed 
 1. Clone the repository
 
 ```bash
-git clone https://github.com/stynerdev225/BusinessIdeaValidator.git
+git clone https://github.com/StynerStiner/BusinessIdeaValidator.git
 cd BusinessIdeaValidator
 ```
 
